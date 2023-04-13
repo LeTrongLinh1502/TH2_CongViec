@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Th2_CongViec</string>
+    <string-array name="TinhTrang">
+        <item>Chưa thực hiện</item>
+        <item>Đang thực hiện</item>
+        <item>Hoàn thành</item>
+    </string-array>
+    <string-array name="CongTac">
+        <item>Một mình</item>
+        <item>Làm chung</item>
+    </string-array>
+</resources>
